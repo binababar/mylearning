@@ -3,6 +3,7 @@ package com.myassignments;
 public class Assignment1 {
 
 	public static void main(String[] args) {
+		
 		// swap the two numbers with temp variables
 		
 		int temp, no1=25,no2=45;
